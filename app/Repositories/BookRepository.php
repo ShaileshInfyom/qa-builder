@@ -26,6 +26,7 @@ class BookRepository extends BaseRepository
         'stock',
         'code',
         'category_id',
+        'deleted_at',
     ];
 
     /**

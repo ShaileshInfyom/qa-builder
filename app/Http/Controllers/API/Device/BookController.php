@@ -112,6 +112,22 @@ class BookController extends AppBaseController
     }
 
     /**
+     * Force Delete given Book.
+     *
+     * @param int $id
+     *
+     * @throws Exception
+     *
+     * @return JsonResponse
+     */
+    public function forceDelete(int $id): JsonResponse
+    {
+        $this->bookRepository->forceDelete($id);
+
+        return $this->successResponse('Book deleted successfully.');
+    }
+
+    /**
      * Bulk create Book's.
      *
      * @param BulkCreateBookAPIRequest $request
