@@ -31,6 +31,7 @@ class CreateBooksTable extends Migration
             $table->tinyInteger('stock')->nullable();
             $table->tinyText('code')->nullable();
             $table->unsignedBigInteger('category_id')->nullable();
+            $table->timestamp('deleted_at')->nullable();
         });
     }
 

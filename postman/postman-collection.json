@@ -37,7 +37,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -54,7 +54,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -108,7 +108,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -219,7 +219,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -256,7 +256,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -273,7 +273,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -364,7 +364,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -380,7 +380,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -417,7 +417,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -433,7 +433,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -475,7 +475,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -492,7 +492,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -546,7 +546,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -657,7 +657,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -694,7 +694,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -711,7 +711,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -802,7 +802,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -818,7 +818,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -855,7 +855,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -871,7 +871,61 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json"
+}
+],
+"cookie": []
+}
+],
+"_postman_isSubFolder": true
+}
+,
+{
+"name": "Force Delete Book",
+"request": {
+"url": "{{host}}/api/admin/books/id/force-delete",
+"method": "DELETE",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json",
+"description": ""
+},
+{
+"key": "Authorization",
+"value": "Bearer {{token}}",
+"type": "text"
+},
+{
+"key": "X-Requested-With",
+"value": "XMLHttpRequest",
+"type": "text"
+}
+],
+"body": {
+"mode": "raw",
+"raw": "{}"
+},
+"description": ""
+},
+"response": [
+{
+"name": "Force delete Book response",
+"originalRequest": {
+"method": "GET",
+"header": [],
+"url": {
+"raw": "{{host}}/api/admin/books/id/force-delete"
+}
+},
+"status": "OK",
+"code": 200,
+"_postman_previewlanguage": "json",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": \"Book deleted successfully.\"\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -913,7 +967,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -930,7 +984,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -984,7 +1038,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -1095,7 +1149,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -1132,7 +1186,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -1149,7 +1203,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -1240,7 +1294,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -1256,7 +1310,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -1293,7 +1347,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -1309,7 +1363,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -2132,7 +2186,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -2180,7 +2234,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 1,\n    \"username\": \"debitis\",\n    \"email\": \"totam\",\n    \"name\": \"cumque\",\n    \"email_verified_at\": \"2021-12-31 09:38:52\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 09:38:52\",\n    \"updated_at\": \"2021-12-31 09:38:52\",\n    \"user_type\": 1, \n    \"token\": \"cQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeGcQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeG\"\n\t}\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 3,\n    \"username\": \"atque\",\n    \"email\": \"ab\",\n    \"name\": \"quos\",\n    \"email_verified_at\": \"2021-12-31 10:31:49\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 10:31:49\",\n    \"updated_at\": \"2021-12-31 10:31:49\",\n    \"user_type\": 1, \n    \"token\": \"cQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeGcQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeG\"\n\t}\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -2683,7 +2737,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -2700,7 +2754,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -2754,7 +2808,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -2865,7 +2919,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -2902,7 +2956,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -2919,7 +2973,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3010,7 +3064,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -3026,7 +3080,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3063,7 +3117,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -3079,7 +3133,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3121,7 +3175,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -3138,7 +3192,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3192,7 +3246,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3303,7 +3357,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3340,7 +3394,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -3357,7 +3411,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3448,7 +3502,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -3464,7 +3518,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3501,7 +3555,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -3517,7 +3571,61 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json"
+}
+],
+"cookie": []
+}
+],
+"_postman_isSubFolder": true
+}
+,
+{
+"name": "Force Delete Book",
+"request": {
+"url": "{{host}}/api/device/books/id/force-delete",
+"method": "DELETE",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json",
+"description": ""
+},
+{
+"key": "Authorization",
+"value": "Bearer {{token}}",
+"type": "text"
+},
+{
+"key": "X-Requested-With",
+"value": "XMLHttpRequest",
+"type": "text"
+}
+],
+"body": {
+"mode": "raw",
+"raw": "{}"
+},
+"description": ""
+},
+"response": [
+{
+"name": "Force delete Book response",
+"originalRequest": {
+"method": "GET",
+"header": [],
+"url": {
+"raw": "{{host}}/api/device/books/id/force-delete"
+}
+},
+"status": "OK",
+"code": 200,
+"_postman_previewlanguage": "json",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": \"Book deleted successfully.\"\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3559,7 +3667,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -3576,7 +3684,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3630,7 +3738,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3741,7 +3849,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3778,7 +3886,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -3795,7 +3903,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3886,7 +3994,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -3902,7 +4010,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -3939,7 +4047,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -3955,7 +4063,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4069,7 +4177,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4165,7 +4273,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 1,\n    \"username\": \"debitis\",\n    \"email\": \"totam\",\n    \"name\": \"cumque\",\n    \"email_verified_at\": \"2021-12-31 09:38:52\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 09:38:52\",\n    \"updated_at\": \"2021-12-31 09:38:52\",\n    \"user_type\": 1, \n    \"token\": \"1|GffLgSdYCqI9GWl175sIGRJw9BxzU5bAHs2SOR3k\"\n\t}\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 3,\n    \"username\": \"atque\",\n    \"email\": \"ab\",\n    \"name\": \"quos\",\n    \"email_verified_at\": \"2021-12-31 10:31:49\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 10:31:49\",\n    \"updated_at\": \"2021-12-31 10:31:49\",\n    \"user_type\": 1, \n    \"token\": \"1|GffLgSdYCqI9GWl175sIGRJw9BxzU5bAHs2SOR3k\"\n\t}\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4544,7 +4652,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -4561,7 +4669,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4615,7 +4723,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4726,7 +4834,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4763,7 +4871,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -4780,7 +4888,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4871,7 +4979,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -4887,7 +4995,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4924,7 +5032,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -4940,7 +5048,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -4982,7 +5090,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -4999,7 +5107,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5053,7 +5161,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5164,7 +5272,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5201,7 +5309,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -5218,7 +5326,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5309,7 +5417,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -5325,7 +5433,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5362,7 +5470,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -5378,7 +5486,61 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json"
+}
+],
+"cookie": []
+}
+],
+"_postman_isSubFolder": true
+}
+,
+{
+"name": "Force Delete Book",
+"request": {
+"url": "{{host}}/api/client/books/id/force-delete",
+"method": "DELETE",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json",
+"description": ""
+},
+{
+"key": "Authorization",
+"value": "Bearer {{token}}",
+"type": "text"
+},
+{
+"key": "X-Requested-With",
+"value": "XMLHttpRequest",
+"type": "text"
+}
+],
+"body": {
+"mode": "raw",
+"raw": "{}"
+},
+"description": ""
+},
+"response": [
+{
+"name": "Force delete Book response",
+"originalRequest": {
+"method": "GET",
+"header": [],
+"url": {
+"raw": "{{host}}/api/client/books/id/force-delete"
+}
+},
+"status": "OK",
+"code": 200,
+"_postman_previewlanguage": "json",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": \"Book deleted successfully.\"\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5420,7 +5582,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -5437,7 +5599,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5491,7 +5653,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5602,7 +5764,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5639,7 +5801,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -5656,7 +5818,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5747,7 +5909,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -5763,7 +5925,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5800,7 +5962,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -5816,7 +5978,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5930,7 +6092,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -5978,7 +6140,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 1,\n    \"username\": \"debitis\",\n    \"email\": \"totam\",\n    \"name\": \"cumque\",\n    \"email_verified_at\": \"2021-12-31 09:38:52\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 09:38:52\",\n    \"updated_at\": \"2021-12-31 09:38:52\",\n    \"user_type\": 1, \n    \"token\": \"cQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeGcQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeG\"\n\t}\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 3,\n    \"username\": \"atque\",\n    \"email\": \"ab\",\n    \"name\": \"quos\",\n    \"email_verified_at\": \"2021-12-31 10:31:49\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 10:31:49\",\n    \"updated_at\": \"2021-12-31 10:31:49\",\n    \"user_type\": 1, \n    \"token\": \"cQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeGcQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeG\"\n\t}\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6357,7 +6519,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -6374,7 +6536,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6428,7 +6590,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6539,7 +6701,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6576,7 +6738,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"quasi\", \n  \"description\": \"necessitatibus\", \n  \"is_active\": true  \n}"
+"raw": "{\n  \"name\": \"distinctio\", \n  \"description\": \"qui\", \n  \"is_active\": true  \n}"
 },
 "description": ""
 },
@@ -6593,7 +6755,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"beatae\", \n    \"description\": \"omnis\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\"  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"delectus\", \n    \"description\": \"nulla\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6684,7 +6846,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -6700,7 +6862,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6737,7 +6899,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"quasi\", \n\t\t\"description\": \"necessitatibus\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"distinctio\", \n\t\t\"description\": \"qui\", \n\t\t\"is_active\": true  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -6753,7 +6915,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"beatae\", \n\t\t\t\"description\": \"omnis\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\"  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"delectus\", \n\t\t\t\"description\": \"nulla\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6795,7 +6957,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -6812,7 +6974,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6866,7 +7028,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -6977,7 +7139,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7014,7 +7176,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"name\": \"dolorum\", \n  \"description\": \"excepturi\", \n  \"is_active\": true, \n  \"type\": \"qui\", \n  \"price\": 5, \n  \"published_at\": \"2021-12-31 09:38:52\", \n  \"publisher\": \"ratione\", \n  \"meta\": \"sit\", \n  \"stock\": 5, \n  \"code\": \"porro\", \n  \"category_id\": 4  \n}"
+"raw": "{\n  \"name\": \"illo\", \n  \"description\": \"eaque\", \n  \"is_active\": true, \n  \"type\": \"vel\", \n  \"price\": 2, \n  \"published_at\": \"2021-12-31 10:31:49\", \n  \"publisher\": \"minima\", \n  \"meta\": \"deleniti\", \n  \"stock\": 5, \n  \"code\": \"quo\", \n  \"category_id\": 3  \n}"
 },
 "description": ""
 },
@@ -7031,7 +7193,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 2, \n    \"name\": \"voluptatem\", \n    \"description\": \"officia\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"type\": \"sunt\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 09:38:52\", \n    \"publisher\": \"ullam\", \n    \"meta\": \"animi\", \n    \"stock\": 2, \n    \"code\": \"voluptatum\", \n    \"category_id\": 4  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"name\": \"non\", \n    \"description\": \"alias\", \n    \"is_active\": false, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"type\": \"consequatur\", \n    \"price\": 3, \n    \"published_at\": \"2021-12-31 10:31:49\", \n    \"publisher\": \"ut\", \n    \"meta\": \"explicabo\", \n    \"stock\": 1, \n    \"code\": \"omnis\", \n    \"category_id\": 1, \n    \"deleted_at\": \"2021-12-31 10:31:49\"  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7122,7 +7284,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -7138,7 +7300,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7175,7 +7337,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"dolorum\", \n\t\t\"description\": \"excepturi\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"qui\", \n\t\t\"price\": 5, \n\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\"publisher\": \"ratione\", \n\t\t\"meta\": \"sit\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"porro\", \n\t\t\"category_id\": 4  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"name\": \"illo\", \n\t\t\"description\": \"eaque\", \n\t\t\"is_active\": true, \n\t\t\"type\": \"vel\", \n\t\t\"price\": 2, \n\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\"publisher\": \"minima\", \n\t\t\"meta\": \"deleniti\", \n\t\t\"stock\": 5, \n\t\t\"code\": \"quo\", \n\t\t\"category_id\": 3  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -7191,7 +7353,61 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 2, \n\t\t\t\"name\": \"voluptatem\", \n\t\t\t\"description\": \"officia\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"type\": \"sunt\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"publisher\": \"ullam\", \n\t\t\t\"meta\": \"animi\", \n\t\t\t\"stock\": 2, \n\t\t\t\"code\": \"voluptatum\", \n\t\t\t\"category_id\": 4  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"name\": \"non\", \n\t\t\t\"description\": \"alias\", \n\t\t\t\"is_active\": false, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"type\": \"consequatur\", \n\t\t\t\"price\": 3, \n\t\t\t\"published_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"publisher\": \"ut\", \n\t\t\t\"meta\": \"explicabo\", \n\t\t\t\"stock\": 1, \n\t\t\t\"code\": \"omnis\", \n\t\t\t\"category_id\": 1, \n\t\t\t\"deleted_at\": \"2021-12-31 10:31:49\"  \n\t\t}\n\t]\n}",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json"
+}
+],
+"cookie": []
+}
+],
+"_postman_isSubFolder": true
+}
+,
+{
+"name": "Force Delete Book",
+"request": {
+"url": "{{host}}/api/desktop/books/id/force-delete",
+"method": "DELETE",
+"header": [
+{
+"key": "Content-Type",
+"value": "application/json",
+"description": ""
+},
+{
+"key": "Authorization",
+"value": "Bearer {{token}}",
+"type": "text"
+},
+{
+"key": "X-Requested-With",
+"value": "XMLHttpRequest",
+"type": "text"
+}
+],
+"body": {
+"mode": "raw",
+"raw": "{}"
+},
+"description": ""
+},
+"response": [
+{
+"name": "Force delete Book response",
+"originalRequest": {
+"method": "GET",
+"header": [],
+"url": {
+"raw": "{{host}}/api/desktop/books/id/force-delete"
+}
+},
+"status": "OK",
+"code": 200,
+"_postman_previewlanguage": "json",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": \"Book deleted successfully.\"\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7233,7 +7449,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -7250,7 +7466,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7304,7 +7520,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7415,7 +7631,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\":[\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7452,7 +7668,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n  \"username\": \"ut\", \n  \"password\": \"hic\", \n  \"email\": \"occaecati\", \n  \"name\": \"sed\", \n  \"email_verified_at\": \"2021-12-31 09:38:52\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
+"raw": "{\n  \"username\": \"quis\", \n  \"password\": \"ut\", \n  \"email\": \"ipsum\", \n  \"name\": \"incidunt\", \n  \"email_verified_at\": \"2021-12-31 10:31:49\", \n  \"is_active\": false, \n  \"user_type\": 1  \n}"
 },
 "description": ""
 },
@@ -7469,7 +7685,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7560,7 +7776,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -7576,7 +7792,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7613,7 +7829,7 @@
 ],
 "body": {
 "mode": "raw",
-"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"ut\", \n\t\t\"password\": \"hic\", \n\t\t\"email\": \"occaecati\", \n\t\t\"name\": \"sed\", \n\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
+"raw": "{\n\t\"data\": [\n\t{\n\t\t\"id\": 1,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}, \n\t{\n\t\t\"id\": 2,\n\t\t\"username\": \"quis\", \n\t\t\"password\": \"ut\", \n\t\t\"email\": \"ipsum\", \n\t\t\"name\": \"incidunt\", \n\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\"is_active\": false, \n\t\t\"user_type\": 1  \n\t}\n\t]\n}" },
 "description": ""
 },
 "response": [
@@ -7629,7 +7845,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 1, \n\t\t\t\"username\": \"debitis\", \n\t\t\t\"email\": \"totam\", \n\t\t\t\"name\": \"cumque\", \n\t\t\t\"email_verified_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"updated_at\": \"2021-12-31 09:38:52\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": [\n\t\t{\n\t\t\t\"id\": 3, \n\t\t\t\"username\": \"atque\", \n\t\t\t\"email\": \"ab\", \n\t\t\t\"name\": \"quos\", \n\t\t\t\"email_verified_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"is_active\": true, \n\t\t\t\"created_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"updated_at\": \"2021-12-31 10:31:49\", \n\t\t\t\"user_type\": 1  \n\t\t}\n\t]\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7743,7 +7959,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 1, \n    \"username\": \"debitis\", \n    \"email\": \"totam\", \n    \"name\": \"cumque\", \n    \"email_verified_at\": \"2021-12-31 09:38:52\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 09:38:52\", \n    \"updated_at\": \"2021-12-31 09:38:52\", \n    \"user_type\": 1  \n   }\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Your request is successfully executed\",\n  \"data\": {\n    \"id\": 3, \n    \"username\": \"atque\", \n    \"email\": \"ab\", \n    \"name\": \"quos\", \n    \"email_verified_at\": \"2021-12-31 10:31:49\", \n    \"is_active\": true, \n    \"created_at\": \"2021-12-31 10:31:49\", \n    \"updated_at\": \"2021-12-31 10:31:49\", \n    \"user_type\": 1  \n   }\n}",
 "header": [
 {
 "key": "Content-Type",
@@ -7791,7 +8007,7 @@
 "status": "OK",
 "code": 200,
 "_postman_previewlanguage": "json",
-"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 1,\n    \"username\": \"debitis\",\n    \"email\": \"totam\",\n    \"name\": \"cumque\",\n    \"email_verified_at\": \"2021-12-31 09:38:52\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 09:38:52\",\n    \"updated_at\": \"2021-12-31 09:38:52\",\n    \"user_type\": 1, \n    \"token\": \"cQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeGcQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeG\"\n\t}\n}",
+"body": "{\n  \"status\": \"SUCCESS\",\n  \"message\": \"Login Successful\",\n  \"data\": {\n    \"id\": 3,\n    \"username\": \"atque\",\n    \"email\": \"ab\",\n    \"name\": \"quos\",\n    \"email_verified_at\": \"2021-12-31 10:31:49\",\n    \"is_active\": true,\n    \"created_at\": \"2021-12-31 10:31:49\",\n    \"updated_at\": \"2021-12-31 10:31:49\",\n    \"user_type\": 1, \n    \"token\": \"cQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeGcQOkQdVTqnQR8e07AlP5pQkLp4zsjz05wJPW1EeG\"\n\t}\n}",
 "header": [
 {
 "key": "Content-Type",

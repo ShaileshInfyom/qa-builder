@@ -52,6 +52,9 @@ Route::group(['middleware' => ['auth:sanctum', 'validate.user']], function () {
     Route::post('books/bulk-update', [BookController::class, 'bulkUpdate'])
         ->name('book.update.bulk')
         ->middleware(['permission:update_book']);
+    Route::delete('books/{book}/force-delete', [BookController::class, 'forceDelete'])
+        ->name('book.force.delete')
+        ->middleware(['permission:delete_book']);
 
     Route::post('users', [UserController::class, 'store'])
         ->name('user.store')
