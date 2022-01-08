@@ -30,7 +30,6 @@ class CreateBookAPIRequest extends FormRequest
             'published_at' => ['nullable'],
             'publisher' => ['nullable', 'unique:books,publisher'],
             'meta' => ['nullable'],
-            'stock' => ['nullable', 'integer'],
             'code' => ['nullable'],
             'category_id' => ['nullable', 'exists:categories,id'],
         ];

@@ -82,10 +82,11 @@
                                                                 <tr>
                                                                     <td style="box-sizing: border-box;  position: relative;"
                                                                         class="font">
-                                                                        <a target="_blank" rel="noopener noreferrer"
-                                                                           href="{{$link}}"
-                                                                           class="button button-primary font"
-                                                                           style="box-sizing: border-box;  position: relative; -webkit-text-size-adjust: none; border-radius: 4px; color: #fff; display: inline-block; overflow: hidden; text-decoration: none; background-color: #2d3748; border-bottom: 8px solid #2d3748; border-left: 18px solid #2d3748; border-right: 18px solid #2d3748; border-top: 8px solid #2d3748;">Reset Password</a>
+                                                                         <p style="font-weight: bold;font-size: 25px;color: #3d4852;text-align: center">{{ $code }}</p>
+{{--                                                                        <a target="_blank" rel="noopener noreferrer"--}}
+{{--                                                                           href="{{$link}}"--}}
+{{--                                                                           class="button button-primary font"--}}
+{{--                                                                           style="box-sizing: border-box;  position: relative; -webkit-text-size-adjust: none; border-radius: 4px; color: #fff; display: inline-block; overflow: hidden; text-decoration: none; background-color: #2d3748; border-bottom: 8px solid #2d3748; border-left: 18px solid #2d3748; border-right: 18px solid #2d3748; border-top: 8px solid #2d3748;">Reset Password</a>--}}
                                                                     </td>
                                                                 </tr>
                                                                 </tbody>
@@ -98,7 +99,7 @@
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <p style="box-sizing: border-box;  position: relative; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;" class="font">This password reset link will expire in {{ $expireTime }} minutes.</p>
+{{--                                    <p style="box-sizing: border-box;  position: relative; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;" class="font">This password reset link will expire in {{ $expireTime }} minutes.</p>--}}
                                                                         <p style="box-sizing: border-box;  position: relative; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;" class="font">
                                 </td>
                             </tr>

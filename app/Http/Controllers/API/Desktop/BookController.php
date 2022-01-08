@@ -20,7 +20,7 @@ class BookController extends AppBaseController
     /**
      * @var BookRepository
      */
-    private $bookRepository;
+    private BookRepository $bookRepository;
 
     /**
      * @param BookRepository $bookRepository

@@ -13,7 +13,7 @@ class PushNotificationController extends AppBaseController
     /**
      * @var PushNotificationRepository
      */
-    private $pushNotificationRepository;
+    private PushNotificationRepository $pushNotificationRepository;
 
     /**
      * @param PushNotificationRepository $pushNotificationRepository

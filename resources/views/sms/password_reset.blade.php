@@ -1,3 +1,3 @@
 Hello ,
-Click on the link below to reset your password.
-{{ $link }}
+Please use below code to reset your password.
+{{ $code }}

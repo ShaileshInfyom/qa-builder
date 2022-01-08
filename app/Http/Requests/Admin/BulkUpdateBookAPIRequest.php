@@ -30,7 +30,6 @@ class BulkUpdateBookAPIRequest extends FormRequest
             'data.*.published_at' => ['nullable'],
             'data.*.publisher' => ['nullable', 'unique:books,publisher,'.$this->route('book')],
             'data.*.meta' => ['nullable'],
-            'data.*.stock' => ['nullable', 'integer'],
             'data.*.code' => ['nullable'],
             'data.*.category_id' => ['nullable', 'exists:categories,id'],
         ];

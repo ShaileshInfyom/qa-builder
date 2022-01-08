@@ -30,7 +30,6 @@ class UpdateBookAPIRequest extends FormRequest
             'published_at' => ['nullable'],
             'publisher' => ['nullable', 'unique:books,publisher,'.$this->route('book')],
             'meta' => ['nullable'],
-            'stock' => ['nullable', 'integer'],
             'code' => ['nullable'],
             'category_id' => ['nullable', 'exists:categories,id'],
         ];

@@ -19,6 +19,10 @@ class CategoryResource extends BaseAPIResource
             return $this->resource->toArray();
         }
 
+        if (self::BULK_UPDATE == self::getAction()) {
+            return $this->bulkUpdateFields();
+        }
+
         return [
             'id' => $this->id,
             'name' => $this->name,
@@ -28,6 +32,16 @@ class CategoryResource extends BaseAPIResource
             'updated_at' => $this->updated_at,
             'added_by' => $this->added_by,
             'updated_by' => $this->updated_by,
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    public function bulkUpdateFields(): array
+    {
+        return [
+            'name' => $this->name,
         ];
     }
 }

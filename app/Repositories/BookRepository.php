@@ -23,7 +23,6 @@ class BookRepository extends BaseRepository
         'published_at',
         'publisher',
         'meta',
-        'stock',
         'code',
         'category_id',
         'deleted_at',

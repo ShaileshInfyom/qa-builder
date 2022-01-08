@@ -28,7 +28,7 @@ class AppBaseController extends Controller
      * 
      * @return JsonResponse
      */
-    public function errorResponse($message, $code = 500): JsonResponse
+    public function errorResponse(string $message, int $code = 500): JsonResponse
     {
         return response()->json(ResponseUtil::generateResponse(
             'ERROR',
