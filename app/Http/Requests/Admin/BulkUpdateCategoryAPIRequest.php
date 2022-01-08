@@ -21,8 +21,9 @@ class BulkUpdateCategoryAPIRequest extends FormRequest
     {
         return [
             'data.*.name' => ['nullable', 'string'],
-            'data.*.description' => ['nullable', 'string'],
-            'data.*.is_active' => ['boolean'],
+            'data.*.description' => ['nullable', 'string', 'unique:categories,description,'.$this->route('category')],
+            'data.*.parent_id' => ['nullable'],
+            'data.*.is_active' => ['nullable', 'boolean'],
         ];
     }
 }

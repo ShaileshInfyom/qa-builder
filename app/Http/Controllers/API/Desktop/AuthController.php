@@ -282,9 +282,9 @@ class AuthController extends AppBaseController
         ]);
 
         // mail send code
-        $data['link'] = URL::to('reset-password/'.$code);
+        $data['code'] = $code;
         $data['expireTime'] = User::FORGOT_PASSWORD_WITH['expire_time'];
-        $data['message'] = 'Click on the link below to reset your password.';
+        $data['message'] = 'Please use below code to reset your password.';
         Mail::to($user->email)
             ->send(new MailService('emails.password_reset',
                 'Reset Password',

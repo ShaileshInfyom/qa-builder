@@ -77,9 +77,6 @@ Route::group(['middleware' => ['auth:sanctum', 'validate.user']], function () {
     Route::post('users/bulk-update', [UserController::class, 'bulkUpdate'])
         ->name('user.update.bulk')
         ->middleware(['permission:update_user']);
-
-    Route::get('activity-logs', [ActivityLogController::class, 'index'])
-        ->name('activity-logs.index');
 });
 
 Route::post('file-upload', [FileUploadController::class, 'upload'])

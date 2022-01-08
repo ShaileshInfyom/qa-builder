@@ -21,8 +21,9 @@ class UpdateCategoryAPIRequest extends FormRequest
     {
         return [
             'name' => ['nullable', 'string'],
-            'description' => ['nullable', 'string'],
-            'is_active' => ['boolean'],
+            'description' => ['nullable', 'string', 'unique:categories,description,'.$this->route('category')],
+            'parent_id' => ['nullable'],
+            'is_active' => ['nullable', 'boolean'],
         ];
     }
 }
