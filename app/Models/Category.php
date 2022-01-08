@@ -40,6 +40,47 @@ class Category extends Model
         'updated_by' => 'integer',
     ];
 
+    public static function boot()
+    {
+        parent::boot();
+
+        static::creating(function ($model) {
+            $existingModel = $model->orderBy('id', 'desc')->first();
+            static::createNameString($existingModel, $model);
+        });
+
+        static::updating(function ($model) {
+            static::updateNameString($model);
+        });
+    }
+
+    /**
+     * @param $existingModel
+     * @param $creatingModel
+     *
+     * @return string
+     */
+    public static function createNameString($existingModel, $creatingModel): string
+    {
+        $series = 5;
+        if (!empty($existingModel)) {
+            preg_match('~SML(.*?)LADU~', $existingModel->name, $output);
+            $series = $output[1] + 1;
+        }
+
+        return $creatingModel->name = 'SML'.$series.'LADU';
+    }
+
+    /**
+     * @param $updatingModel
+     *
+     * @return mixed
+     */
+    public static function updateNameString($updatingModel)
+    {
+        return $updatingModel->name = $updatingModel->where('id', $updatingModel->id)->first()->name;
+    }
+
     protected static $logAttributes = ['id', 'name', 'description', 'is_active', 'created_at', 'updated_at', 'added_by', 'updated_by'];
 
     /**
