@@ -34,7 +34,6 @@ class Book extends Model
         'published_at',
         'publisher',
         'meta',
-        'stock',
         'code',
         'category_id',
         'deleted_at',
@@ -54,12 +53,11 @@ class Book extends Model
         'published_at' => 'datetime',
         'publisher' => 'string',
         'meta' => 'json',
-        'stock' => 'integer',
         'code' => 'string',
         'category_id' => 'integer',
     ];
 
-    protected static $logAttributes = ['id', 'name', 'description', 'is_active', 'created_at', 'updated_at', 'added_by', 'updated_by', 'type', 'price', 'published_at', 'publisher', 'meta', 'stock', 'code', 'category_id', 'deleted_at'];
+    protected static $logAttributes = ['id', 'name', 'description', 'is_active', 'created_at', 'updated_at', 'added_by', 'updated_by', 'type', 'price', 'published_at', 'publisher', 'meta', 'code', 'category_id', 'deleted_at'];
 
     /**
      * @return \Illuminate\Database\Eloquent\Relations\belongsTo

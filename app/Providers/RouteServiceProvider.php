@@ -90,7 +90,6 @@ class RouteServiceProvider extends ServiceProvider
         ->group(base_path('routes/desktop.php'));
     }
     
-
     /**
      * Configure the rate limiters for the application.
      *

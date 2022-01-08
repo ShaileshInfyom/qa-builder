@@ -33,7 +33,6 @@ class BookResource extends BaseAPIResource
             'published_at' => $this->published_at,
             'publisher' => $this->publisher,
             'meta' => $this->meta,
-            'stock' => $this->stock,
             'code' => $this->code,
             'category_id' => $this->category_id,
             'deleted_at' => $this->deleted_at,

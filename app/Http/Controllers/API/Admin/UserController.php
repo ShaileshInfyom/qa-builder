@@ -21,7 +21,7 @@ class UserController extends AppBaseController
     /**
      * @var UserRepository
      */
-    private $userRepository;
+    private UserRepository $userRepository;
 
     /**
      * @param UserRepository $userRepository
