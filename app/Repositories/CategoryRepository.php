@@ -13,6 +13,7 @@ class CategoryRepository extends BaseRepository
         'id',
         'name',
         'description',
+        'parent_id',
         'is_active',
         'created_at',
         'updated_at',

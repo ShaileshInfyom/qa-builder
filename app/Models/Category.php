@@ -22,6 +22,7 @@ class Category extends Model
     protected $fillable = [
         'name',
         'description',
+        'parent_id',
         'is_active',
         'created_at',
         'updated_at',
@@ -35,6 +36,7 @@ class Category extends Model
     protected $casts = [
         'name' => 'string',
         'description' => 'string',
+        'parent_id' => 'integer',
         'is_active' => 'boolean',
         'added_by' => 'integer',
         'updated_by' => 'integer',
@@ -81,7 +83,7 @@ class Category extends Model
         return $updatingModel->name = $updatingModel->where('id', $updatingModel->id)->first()->name;
     }
 
-    protected static $logAttributes = ['id', 'name', 'description', 'is_active', 'created_at', 'updated_at', 'added_by', 'updated_by'];
+    protected static $logAttributes = ['id', 'name', 'description', 'parent_id', 'is_active', 'created_at', 'updated_at', 'added_by', 'updated_by'];
 
     /**
      * @return \Illuminate\Database\Eloquent\Relations\hasMany
