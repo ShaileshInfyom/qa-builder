@@ -29,7 +29,7 @@ Route::group(['middleware' => ['auth:sanctum', 'validate.user']], function () {
         ->middleware(['permission:create_category']);
     Route::post('categories/bulk-update', [CategoryController::class, 'bulkUpdate'])
         ->name('category.update.bulk')
-        ->middleware(['permission:update_category']);
+        ->middleware(['ActivUser']);
 
     Route::post('books', [BookController::class, 'store'])
         ->name('book.store')
@@ -77,9 +77,6 @@ Route::group(['middleware' => ['auth:sanctum', 'validate.user']], function () {
     Route::post('users/bulk-update', [UserController::class, 'bulkUpdate'])
         ->name('user.update.bulk')
         ->middleware(['permission:update_user']);
-
-    Route::get('activity-logs', [ActivityLogController::class, 'index'])
-        ->name('activity-logs.index');
 });
 
 Route::post('file-upload', [FileUploadController::class, 'upload'])

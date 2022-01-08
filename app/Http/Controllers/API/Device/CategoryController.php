@@ -20,7 +20,7 @@ class CategoryController extends AppBaseController
     /**
      * @var CategoryRepository
      */
-    private $categoryRepository;
+    private CategoryRepository $categoryRepository;
 
     /**
      * @param CategoryRepository $categoryRepository
@@ -158,7 +158,7 @@ class CategoryController extends AppBaseController
      *
      * @return JsonResponse
      */
-    public function activeDeActive(): JsonResponse
+    public function activeDeActive(Request $request): JsonResponse
     {
         return $this->successResponse('');
     }

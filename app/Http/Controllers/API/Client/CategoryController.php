@@ -20,7 +20,7 @@ class CategoryController extends AppBaseController
     /**
      * @var CategoryRepository
      */
-    private $categoryRepository;
+    private CategoryRepository $categoryRepository;
 
     /**
      * @param CategoryRepository $categoryRepository

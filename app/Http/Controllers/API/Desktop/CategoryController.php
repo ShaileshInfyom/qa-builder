@@ -20,7 +20,7 @@ class CategoryController extends AppBaseController
     /**
      * @var CategoryRepository
      */
-    private $categoryRepository;
+    private CategoryRepository $categoryRepository;
 
     /**
      * @param CategoryRepository $categoryRepository
@@ -149,6 +149,7 @@ class CategoryController extends AppBaseController
         foreach ($input as $key => $categoryInput) {
             $categories[$key] = $this->categoryRepository->update($categoryInput, $categoryInput['id']);
         }
+        CategoryResource::isUsingBulkUpdate();
 
         return new CategoryCollection($categories);
     }

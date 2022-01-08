@@ -17,8 +17,14 @@ use Prettus\Validator\Exceptions\ValidatorException;
 
 class RoleController extends AppBaseController
 {
-    private $roleRepository;
+    /**
+     * @var RoleRepository
+     */
+    private RoleRepository $roleRepository;
 
+    /**
+     * @param RoleRepository $roleRepository
+     */
     public function __construct(RoleRepository $roleRepository)
     {
         $this->roleRepository = $roleRepository;
